@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @veniceofcode
+- 👋 Hi, I’m Raghu
 - 👀 I’m interested in software development and solution architecture
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on open source projects
